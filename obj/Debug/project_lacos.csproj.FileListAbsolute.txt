@@ -1,0 +1,12 @@
+C:\Users\Aluno\Desktop\project_lacos\bin\Debug\project_lacos.exe.config
+C:\Users\Aluno\Desktop\project_lacos\bin\Debug\project_lacos.exe
+C:\Users\Aluno\Desktop\project_lacos\bin\Debug\project_lacos.pdb
+C:\Users\Aluno\Desktop\project_lacos\obj\Debug\project_lacos.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\project_lacos\obj\Debug\project_lacos.Properties.Resources.resources
+C:\Users\Aluno\Desktop\project_lacos\obj\Debug\project_lacos.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\project_lacos\obj\Debug\project_lacos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\project_lacos\obj\Debug\project_lacos.exe
+C:\Users\Aluno\Desktop\project_lacos\obj\Debug\project_lacos.pdb
+C:\Users\Aluno\Desktop\project_lacos\obj\Debug\project_lacos.FRMcontador20.resources
+C:\Users\Aluno\Desktop\project_lacos\obj\Debug\project_lacos.FRMlista_intervalo.resources
+C:\Users\Aluno\Desktop\project_lacos\obj\Debug\project_lacos.FRMtabuada.resources

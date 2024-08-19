@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\project_lacos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C5987-DB21-46D4-8D38-F6D379A4BDAD}|project_lacos.csproj|c:\\users\\aluno\\desktop\\project_lacos\\frmtabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C5987-DB21-46D4-8D38-F6D379A4BDAD}|project_lacos.csproj|solutionrelative:frmtabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C5987-DB21-46D4-8D38-F6D379A4BDAD}|project_lacos.csproj|c:\\users\\aluno\\desktop\\project_lacos\\frmtabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8C5987-DB21-46D4-8D38-F6D379A4BDAD}|project_lacos.csproj|solutionrelative:frmtabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C5987-DB21-46D4-8D38-F6D379A4BDAD}|project_lacos.csproj|c:\\users\\aluno\\desktop\\project_lacos\\frmtabuada.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C5987-DB21-46D4-8D38-F6D379A4BDAD}|project_lacos.csproj|solutionrelative:frmtabuada.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C5987-DB21-46D4-8D38-F6D379A4BDAD}|project_lacos.csproj|c:\\users\\aluno\\desktop\\project_lacos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C5987-DB21-46D4-8D38-F6D379A4BDAD}|project_lacos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FRMtabuada.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\project_lacos\\FRMtabuada.Designer.cs",
+              "RelativeDocumentMoniker": "FRMtabuada.Designer.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\project_lacos\\FRMtabuada.Designer.cs",
+              "RelativeToolTip": "FRMtabuada.Designer.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADgv0wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:49:12.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FRMtabuada.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\project_lacos\\FRMtabuada.cs",
+              "RelativeDocumentMoniker": "FRMtabuada.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\project_lacos\\FRMtabuada.cs",
+              "RelativeToolTip": "FRMtabuada.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:52:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FRMtabuada.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\project_lacos\\FRMtabuada.cs",
+              "RelativeDocumentMoniker": "FRMtabuada.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\project_lacos\\FRMtabuada.cs [Design]",
+              "RelativeToolTip": "FRMtabuada.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:48:24.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\project_lacos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\project_lacos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:06:10.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
